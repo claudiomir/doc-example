@@ -12,3 +12,4 @@ Welcome to CoolProject's documentation!
 
    feature-a
    feature-b
+   feature-c
